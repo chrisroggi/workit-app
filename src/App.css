@@ -1,0 +1,19 @@
+.wrapper {
+  margin: 0 40px;
+}
+
+.right-button {
+  float: right;
+}
+
+select[multiple] {
+  height: 120px;
+}
+
+.logout {
+  float: right;
+}
+
+.meta {
+  float: right;
+}
